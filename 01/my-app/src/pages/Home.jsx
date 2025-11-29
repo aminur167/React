@@ -1,5 +1,4 @@
 import React from 'react'
-const AboutMe="My name is Aminur Islam.";
 function Home() {
   return (
     <div>
