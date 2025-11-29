@@ -3,10 +3,9 @@ import React from 'react'
 function Home() {
   return (
     <div>
-      <h1>I love you sadia</h1>
-      <h2>You are my queen</h2>
-      <h3>Miss you my cutipie</h3>
-      <h4>You are my hart</h4>
+      <h1>Header</h1>
+      <h1>Sidebar</h1>
+      <h1>Footer</h1>
     </div>
   )
 }
